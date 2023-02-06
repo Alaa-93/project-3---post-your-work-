@@ -199,6 +199,8 @@ def main():
         if restart.lower() != 'yes':
             break
         print(" End of this program")
+        print(" End of this program")
+        
 
 
 if __name__ == "__main__":
